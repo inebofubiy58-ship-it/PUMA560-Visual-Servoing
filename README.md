@@ -3,7 +3,7 @@
 This repository contains a complete MATLAB-based **Position-Based Visual Servoing (PBVS)** simulation and control pipeline. It bridges live visual perception (via a monocular camera) with complex 6-DOF robotic kinematics.
 
 ## 🎬 System Demo
-![PBVS Tracking Demo](./assets/demo.gif)
+![PBVS Tracking Demo](./assets/fixed_1.gif)
 
 ## 💡 Project Overview
 This project implements a closed-loop electromechanical control system in MATLAB. Utilizing real-time image capture from a monocular camera, the system performs feature extraction and coordinate calculation to guide a virtual PUMA 560 manipulator in precise Cartesian space tracking of a moving target. 
